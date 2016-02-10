@@ -1,6 +1,8 @@
 # AppParser
 
 [![Build Status](https://travis-ci.org/tkycule/app_parser.svg?branch=master)](https://travis-ci.org/tkycule/app_parser)
+[![Code Climate](https://codeclimate.com/github/tkycule/app_parser/badges/gpa.svg)](https://codeclimate.com/github/tkycule/app_parser)
+[![Test Coverage](https://codeclimate.com/github/tkycule/app_parser/badges/coverage.svg)](https://codeclimate.com/github/tkycule/app_parser/coverage)
 
 Analysis tool for iOS ipa and Android apk.
 
