@@ -8,3 +8,5 @@ group :guard do
   gem "guard-bundler"
   gem "rb-fsevent"
 end
+
+gem "codeclimate-test-reporter", group: :test, require: nil
