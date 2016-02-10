@@ -1,5 +1,7 @@
 # AppParser
 
+[![Build Status](https://travis-ci.org/tkycule/app_parser.svg?branch=master)](https://travis-ci.org/tkycule/app_parser)
+
 Analysis tool for iOS ipa and Android apk.
 
 ## Installation
